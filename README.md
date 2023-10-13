@@ -2,7 +2,7 @@
 
 # Welkom op mijn GitHub-profiel! 👋
 
-Ik ben [jouw naam], een gepassioneerde ontwikkelaar met een liefde voor [jouw favoriete programmeertaal(en)].
+Ik ben Lars, een gepassioneerde programmeur met een liefde voor PHP.
 
 ## Technologieën & Tools
 
