@@ -33,6 +33,8 @@ Ik ben [jouw naam], een gepassioneerde ontwikkelaar met een liefde voor [jouw fa
 
 ## Statistieken
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsLars03&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Statistieken](https://github-readme-stats.vercel.app/api?username=gebruikersnaam&show_icons=true&theme=radical)
 
 ## Bijdragen
