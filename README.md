@@ -18,7 +18,7 @@ Ik ben [jouw naam], een gepassioneerde ontwikkelaar met een liefde voor [jouw fa
 - ...
 
 ## Vaardigheden
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,cs,wordpress,mysql,swift,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,cs,wordpress,mysql,swift,vscode,)](https://skillicons.dev)
 
 - 💻 Programmeertalen: [Taal 1](link_naar_taal1), [Taal 2](link_naar_taal2), [Taal 3](link_naar_taal3)
 - 🌐 Webontwikkeling: HTML, CSS, JavaScript, ...
