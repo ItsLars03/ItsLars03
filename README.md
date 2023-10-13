@@ -22,14 +22,13 @@ Ik ben [jouw naam], een gepassioneerde ontwikkelaar met een liefde voor [jouw fa
 
 - 💻 Programmeertalen: [PHP](link_naar_taal1), [C#](link_naar_taal2), [JavaScript](link_naar_taal3)
 - 🌐 Webontwikkeling: HTML, CSS, JavaScript, ...
-- 🛢️ Databases: SQL, MongoDB, ...
-- ...
+- 🛢️ Databases: MySQL
+- 🗄️ Operating Systems: Windows, MacOS, Ubuntu
 
 ## Contacteer mij
 
-- 📧 Email: jouw@email.com
+- 🎮 Discord: ItzJustLars
 - 🔗 LinkedIn: [LinkedIn profiel](link_naar_linkedin)
-- ...
 
 ## Statistieken
 
