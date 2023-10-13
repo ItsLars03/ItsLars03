@@ -13,7 +13,7 @@ Ik ben [jouw naam], een gepassioneerde ontwikkelaar met een liefde voor [jouw fa
 
 ## Projecten
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,csharp)](https://skillicons.dev)
 
 - [Projectnaam 1](link_naar_project1) - Korte beschrijving van project 1.
 - [Projectnaam 2](link_naar_project2) - Korte beschrijving van project 2.
