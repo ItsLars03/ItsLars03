@@ -21,7 +21,7 @@ Ik ben Lars, een gepassioneerde programmeur met een liefde voor PHP.
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,cs,wordpress,mysql,swift,vscode,)](https://skillicons.dev)
 
 - 💻 Programmeertalen: [PHP](link_naar_taal1), [C#](link_naar_taal2), [JavaScript](link_naar_taal3)
-- 🌐 Webontwikkeling: HTML, CSS, JavaScript, ...
+- 🌐 Webontwikkeling: HTML, CSS, JavaScript
 - 🛢️ Databases: MySQL
 - 🗄️ Operating Systems: Windows, MacOS, Ubuntu
 
