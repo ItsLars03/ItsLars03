@@ -23,7 +23,7 @@ Ik ben Lars, een gepassioneerde programmeur met een liefde voor PHP.
 - 💻 Programmeertalen: [PHP](link_naar_taal1), [C#](link_naar_taal2), [JavaScript](link_naar_taal3)
 - 🌐 Webontwikkeling: HTML, CSS, JavaScript
 - 🛢️ Databases: MySQL
-- 🗄️ Operating Systems: Windows, MacOS, Ubuntu
+- 🗄️ Operating Systems: Windows, MacOS, Ubuntu Server
 
 ## Contacteer mij
 
