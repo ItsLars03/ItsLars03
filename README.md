@@ -2,8 +2,6 @@
 
 # Welkom op mijn GitHub-profiel! 👋
 
-Ik ben Lars, een gepassioneerde programmeur met een liefde voor PHP.
-
 ## Technologieën & Tools
 
 - 🚀 [Technologie 1](link_naar_technologie1) 
