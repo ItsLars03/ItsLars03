@@ -36,7 +36,7 @@
 
 ## Bijdragen
 
-[![bijdrage grafiek](https://github-readme-streak-stats.herokuapp.com/?user=ItsLars03)](https://git.io/streak-stats)
+[![bijdrage grafiek](https://github-readme-streak-stats.herokuapp.com/?user=ItsLars03&theme=dark)](https://git.io/streak-stats)
 
 ## Favoriete Code
 
