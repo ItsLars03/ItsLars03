@@ -38,6 +38,8 @@
 
 [![bijdrage grafiek](https://github-readme-streak-stats.herokuapp.com/?user=ItsLars03&theme=radical)](https://git.io/streak-stats)
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ItsLars03&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Favoriete Code
 
 ```php
