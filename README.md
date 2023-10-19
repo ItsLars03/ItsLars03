@@ -30,13 +30,13 @@
 
 ## Statistieken
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsLars03&theme=radical&hide=hack,css,scss,html)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsLars03&theme=radical&hide=hack,css,scss,html)](https://github.com/ItsLars03)
 
-![Statistieken](https://github-readme-stats.vercel.app/api?username=ItsLars03&show_icons=true&theme=radical)
+[![Statistieken](https://github-readme-stats.vercel.app/api?username=ItsLars03&show_icons=true&theme=radical)](https://github.com/ItsLars03)
 
 ## Bijdragen
 
-[![bijdrage grafiek](https://github-readme-streak-stats.herokuapp.com/?user=ItsLars03&theme=radical)]()
+[![bijdrage grafiek](https://github-readme-streak-stats.herokuapp.com/?user=ItsLars03&theme=radical)](https://github.com/ItsLars03)
 
 
 ## Favoriete Code
