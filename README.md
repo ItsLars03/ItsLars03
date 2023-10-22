@@ -2,6 +2,14 @@
 
 # Welkom op mijn GitHub-profiel! 👋
 
+## Vaardigheden
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,cs,wordpress,mysql,)](https://skillicons.dev)
+
+- 💻 Programmeertalen: [PHP](link_naar_taal1), [C#](link_naar_taal2), [JavaScript](link_naar_taal3)
+- 🌐 Webontwikkeling: HTML, CSS, JavaScript
+- 🛢️ Databases: MySQL
+- 🗄️ Operating Systems: Windows, MacOS, Ubuntu Server
+
 ## Technologieën & Tools
 
 - 🚀 [Technologie 1](link_naar_technologie1) 
@@ -14,14 +22,6 @@
 - [Projectnaam 1](link_naar_project1) - Korte beschrijving van project 1.
 - [Projectnaam 2](link_naar_project2) - Korte beschrijving van project 2.
 - ...
-
-## Vaardigheden
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,cs,wordpress,mysql,)](https://skillicons.dev)
-
-- 💻 Programmeertalen: [PHP](link_naar_taal1), [C#](link_naar_taal2), [JavaScript](link_naar_taal3)
-- 🌐 Webontwikkeling: HTML, CSS, JavaScript
-- 🛢️ Databases: MySQL
-- 🗄️ Operating Systems: Windows, MacOS, Ubuntu Server
 
 ## Contacteer mij
 
