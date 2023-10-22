@@ -16,7 +16,7 @@
 - ...
 
 ## Vaardigheden
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,cs,wordpress,mysql,swift,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,cs,wordpress,mysql,)](https://skillicons.dev)
 
 - 💻 Programmeertalen: [PHP](link_naar_taal1), [C#](link_naar_taal2), [JavaScript](link_naar_taal3)
 - 🌐 Webontwikkeling: HTML, CSS, JavaScript
