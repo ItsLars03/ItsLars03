@@ -30,7 +30,7 @@
 
 ## Statistieken
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsLars03&theme=radical&hide=hack,css,scss,html)](https://github.com/ItsLars03)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsLars03&theme=radical&hide=hack,css,scss,html,arduino)](https://github.com/ItsLars03)
 
 [![Statistieken](https://github-readme-stats.vercel.app/api?username=ItsLars03&show_icons=true&theme=radical)](https://github.com/ItsLars03)
 
