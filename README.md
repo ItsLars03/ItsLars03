@@ -3,7 +3,7 @@
 # Welkom op mijn GitHub-profiel! 👋
 
 ## Vaardigheden
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,cs,wordpress,mysql,)]([https://skillicons.dev](https://github.com/ItsLars03))
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,cs,java,wordpress,mysql,)]([https://skillicons.dev](https://github.com/ItsLars03))
 
 - 💻 Programmeertalen: [PHP](link_naar_taal1), [C#](link_naar_taal2), [JavaScript](link_naar_taal3)
 - 🌐 Webontwikkeling: HTML, CSS, JavaScript
